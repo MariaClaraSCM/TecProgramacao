@@ -27,7 +27,7 @@ TecProgramacao/
 ## 🧩 Descrição das Pastas
 
 - **PrimeiroBimestre/**: Contém os exercícios práticos do primeiro bimestre, abordando conceitos fundamentais de programação.
--  *AtividadePraticaXX_XXXXXXX/**: As pastas vão ter o número da atividade e qual técnica é, contendo os exercícios práticos do primeiro bimestre.
+-  **AtividadePraticaXX_XXXXXXX/**: As pastas vão ter o número da atividade e qual técnica é, contendo os exercícios práticos do primeiro bimestre.
 - **src/**: Diretório com os códigos-fonte em Java, organizados por pacotes conforme a estrutura proposta pela disciplina.
 
 ---
