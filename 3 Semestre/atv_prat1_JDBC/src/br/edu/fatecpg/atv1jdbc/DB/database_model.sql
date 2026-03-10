@@ -1,0 +1,10 @@
+
+CREATE TABLE  IF NOT EXISTS tb_tarefa (
+	id INTEGER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+	nome VARCHAR(80) NOT NULL,
+	descricao TEXT,
+	status BOOLEAN,
+	categoria VARCHAR(80)
+);
+
+SELECT * FROM tb_tarefa;
