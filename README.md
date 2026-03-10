@@ -11,13 +11,8 @@ TecProgramacao/
 │
 ├── PrimeiroBimestre/
 │   └── AtividadePraticaUm_ProgEstruturada/
-│       └── src/
-│           └── br/
-│               └── edu/
-│                   └── fatecpg/
-│                       └── tecprog/
-│                           └── estruturado/
-│                               └── [arquivos Java]
+│   └── ATIVIDADE_PRATICA2 _REPETIÇAO_MATRIZ/
+│   └──AtvPratica4_abstracao
 │
 └── README.md
 ```
