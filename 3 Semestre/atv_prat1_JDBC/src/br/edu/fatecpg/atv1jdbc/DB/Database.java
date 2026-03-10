@@ -8,7 +8,7 @@ public class Database {
         try {
             var jdbcUrl = "jdbc:postgresql://localhost:5432/db_gestao_tarefas";
             var user = "postgres";
-            var password = "2110";
+            var password = "sua_senha";
             return DriverManager.getConnection(jdbcUrl, user, password);
         } catch(SQLException e) {
             System.err.println(e.getMessage());
